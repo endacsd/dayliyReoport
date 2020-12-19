@@ -204,7 +204,7 @@ namespace daily
                 User user = new User();
                 user.password = "#";
                 user.username = "#";
-                user.url = "https://sc.ftqq.com/SCU109614T5067ef0115b2fa4e8f48506dcd1291315f38ed035c024.send";
+                user.url = "#";
                 user.max = 1;
                 user.dic = new Dictionary<string, string>();
                 user.dic.Add("fieldSQxq", "中心校区");
