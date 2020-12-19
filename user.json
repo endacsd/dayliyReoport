@@ -1,0 +1,32 @@
+[
+  {
+    "username": "zhengyh2118",
+    "password": "1234567890z",
+    "max": "1",
+    "url": "https://sc.ftqq.com/SCU109614T5067ef0115b2fa4e8f48506dcd1291315f38ed035c024.send", //用于通知
+    "fields": {
+      "fieldSQxq": "中心校区", //
+      "fieldSQgyl": "北苑1公寓", //公寓号
+      "fieldSQqsh": "1088", //寝室号
+      "fieldSQnj": "2118", //学号前四位
+      "fieldSQnj_Name": "2018", //入学年份
+      //"fieldSQbj": "881",//班级id需要自行抓包
+      "fieldSQbj_Name": "211827" //班级名称严格按照学号前四位+班级的形式
+    }
+  },
+  {
+    "username": "fengyl2118",
+    "password": "21180427fengyl",
+    "max": "1",
+    "url": "https://sc.ftqq.com/SCU109614T5067ef0115b2fa4e8f48506dcd1291315f38ed035c024.send", //用于通知
+    "fields": {
+      "fieldSQxq": "中心校区", //
+      "fieldSQgyl": "北苑1公寓", //公寓号
+      "fieldSQqsh": "1088", //寝室号
+      "fieldSQnj": "2118", //学号前四位
+      "fieldSQnj_Name": "2018", //入学年份
+      //"fieldSQbj": "881",//班级id需要自行抓包
+      "fieldSQbj_Name": "211827" //班级名称严格按照学号前四位+班级的形式
+    }
+  }
+]
